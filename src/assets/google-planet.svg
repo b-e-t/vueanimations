@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="640px"
+   height="480px"
+   viewBox="0 0 640 480"
+   version="1.1"
+   id="SVGRoot"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="google-planet.svg">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.11804"
+     inkscape:cx="320.65961"
+     inkscape:cy="265.10998"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer5"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1058"
+     inkscape:window-x="-8"
+     inkscape:window-y="387"
+     inkscape:window-maximized="1"
+     inkscape:snap-page="false"
+     inkscape:snap-grids="true"
+     inkscape:snap-to-guides="true"
+     inkscape:snap-others="true"
+     inkscape:object-nodes="true" />
+  <defs
+     id="defs815" />
+  <metadata
+     id="metadata818">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="bg-sky"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <rect
+       id="rect1374"
+       width="640"
+       height="480"
+       x="0"
+       y="0"
+       style="fill:#aaeeff" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="mountains">
+    <g
+       id="g1449"
+       transform="matrix(1.0792778,0,0,1.0792778,-10.123779,69.647188)">
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect1442"
+         d="M 245.29646,46.70354 314.59293,153 H 176 Z"
+         style="fill:#37483e" />
+      <path
+         style="fill:#536c5d"
+         d="M 245.29646,46.70354 278.59293,153 H 176 Z"
+         id="path1445"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <g
+       transform="matrix(0.54538448,0,0,0.54538448,204.30096,151.33287)"
+       id="g1455">
+      <path
+         style="fill:#37483e"
+         d="M 245.29646,46.70354 314.59293,153 H 176 Z"
+         id="path1451"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccc" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path1453"
+         d="M 245.29646,46.70354 278.59293,153 H 176 Z"
+         style="fill:#536c5d" />
+    </g>
+    <g
+       id="g1461"
+       transform="matrix(0.78642669,0,0,0.78642669,216.67366,114.4534)">
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path1457"
+         d="M 245.29646,46.70354 314.59293,153 H 176 Z"
+         style="fill:#37483e" />
+      <path
+         style="fill:#536c5d"
+         d="M 245.29646,46.70354 278.59293,153 H 176 Z"
+         id="path1459"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccc" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="bottom-hemisphere"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:#006680;stroke-width:1.61946905"
+       d="M 507,236 C 507,337.06811 425.06811,419 324,419 222.93189,419 141,337.06811 141,236 Z"
+       id="path1398"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cscc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="middle-hemisphere"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <path
+       style="display:inline;fill:#00aad4;stroke-width:1.61946905"
+       d="M 507,236 C 476,336.06811 385.48582,354.74021 324,307 276.2041,269.88923 161,336.06811 141,236 Z"
+       id="path1398-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cscc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="top-hemisphere"
+     sodipodi:insensitive="true">
+    <path
+       style="display:inline;fill:#00ccff;stroke-width:1.61946905"
+       d="M 507,236 C 449,324.06811 405.48582,311.74021 344,264 296.2041,226.88923 200,324.06811 141,236 Z"
+       id="path1398-9-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cscc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="grass">
+    <rect
+       style="fill:#71c837;stroke-width:0.51542151"
+       id="rect1464"
+       width="370.48999"
+       height="7.0858746"
+       x="138.755"
+       y="228.95706" />
+  </g>
+</svg>
